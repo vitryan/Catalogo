@@ -24,7 +24,7 @@ fieldset {
 }
 
 body{
-    background-color: #F0F8FF;
+    background-color: #B0E0E6;
     font-family: sans-serif;
     font-size: 1em;
     color: #1C1C1C;
@@ -75,12 +75,12 @@ fieldset.grupo .campo {
 }
 
 .campo input:focus, .campo select:focus, .campo textarea:focus {
-    background: #E0E0F8;
+    background: #F0F8FF;
 }
 
 .botao {
     font-size: 1.2em;
-    background: #1C1C1C;
+    background: #00008B;
     border: 0;
     margin-bottom: 1em;
     color: #ffffff;
@@ -95,7 +95,7 @@ fieldset.grupo .campo {
 }
 
 .botao:hover {
-    background: #00008B;
+    background: #0000CD;
     box-shadow: inset 2px 2px 2px rgba(0,0,0,0.2);
     text-shadow: none;
 }
