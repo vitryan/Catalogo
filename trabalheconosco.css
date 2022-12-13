@@ -63,7 +63,7 @@ fieldset.grupo .campo {
     margin-right: 1em;
 }
 
-.campo input[type="text"], .campo input[type="email"], .campo select, .campo textarea {
+.campo input[type="text"], .campo input[type="email"], .campo input[type="password"], .campo select, .campo textarea {
     padding: 0.2em;
     border: 1px solid #1C1C1C;
     box-shadow: 2px 2px 2px rgba(0,0,0,0.2);
